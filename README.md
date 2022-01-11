@@ -9,5 +9,5 @@ The rules are straightforward that actions of the players are compared with each
 3. Scissors can cut or slice a Paper so player with the action of Scissors wins against player with action of Paper.
 4. TIE is declared when the players have choosen the same action.
 
-If you are a gamer or want to pass time while you are alone ...Here is a simple Computer Bot that plays "Rock Paper Scissors" game with you multiple times and remove all your stress. Hope you find it intresting playing it ...Cheers!!
+If you are a gamer or want to pass time while you are alone ...Here is a simple Computer Bot that plays "Rock Paper Scissors" game with you multiple times and remove all your stress or boredom. Hope you find it intresting playing it ...Cheers!!
 
